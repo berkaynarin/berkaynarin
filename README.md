@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Berkay</h1>
 <h3 align="center">Junior Front-End Developer, Computer Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkaynarin" alt="berkaynarin" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, Sass**
 
 - 💬 Ask me about **CSS, JavaScript**
