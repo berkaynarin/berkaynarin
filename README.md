@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Berkay</h1>
-<h3 align="center">Junior Front-End Developer, Computer Engineering Student</h3>
+<h3 align="center">Jr. Front-End Developer, Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **ReactJS, Sass**
 
