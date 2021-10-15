@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Material-UI**
 
-- 💬 Ask me about **CSS, JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **bnarin.dev@gmail.com**
 
