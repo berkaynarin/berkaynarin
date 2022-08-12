@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Berkay</h1>
 <h3 align="center">Jr. Software Engineer, Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **ReactJS, Material-UI**
+- 🌱 I’m currently learning **Vue.js, Vuex, Nuxt.js**
 
 - 💬 Ask me about **JavaScript**
 
