@@ -1,11 +1,6 @@
-<h1 align="center">Hey 👋, I'm Berkay</h1>
-<h3 align="center">Jr. Software Engineer, Computer Engineering Student</h3>
+<h3 align="center">I'm Berkay, Assistant Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a></h3>
 
-- 🌱 I’m currently learning **Vue.js, Vuex, Nuxt.js**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **bnarin.dev@gmail.com**
+Contact me at **bnarin.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
