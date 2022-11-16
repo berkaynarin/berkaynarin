@@ -1,9 +1,10 @@
-<h3 align="center">I'm Berkay, Assistant Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a></h3>
+#Hello
 
-Contact me at **bnarin.dev@gmail.com**
+I'm Berkay, Assistant Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+##Contact me at **bnarin.dev@gmail.com**
+
+##Social Accounts
 <a href="https://linkedin.com/in/berkay-narin-92a8a01b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-narin-92a8a01b9/" height="30" width="40" /></a>
 </p>
 
