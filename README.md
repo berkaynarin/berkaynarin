@@ -1,8 +1,8 @@
 <h3>Hello,</h3>
 
-I'm **Berkay**, Assistant Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a>
+I'm **Berkay**, Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a>
 
-Contact me at **bnarin.dev@gmail.com**
+Contact me at **bnarin@tutanota.com**
 
 LinkedIn: 
 <a href="https://linkedin.com/in/berkay-narin-92a8a01b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-narin-92a8a01b9/" height="30" width="40" /></a>
