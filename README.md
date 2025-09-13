@@ -12,8 +12,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
-  <a href="https://seeklogo.com" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/vector-logo/611654/langchain" alt="bash" width="40" height="40" />
+  <a target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/500px-LangChain_Logo.svg.png" alt="langchain" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us" target="_blank" rel="noreferrer">
     <img src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="csharp" width="40" height="40" />
