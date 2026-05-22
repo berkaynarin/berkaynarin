@@ -19,17 +19,20 @@ I work at the intersection of **LLMs, RAG pipelines, and knowledge graphs**, bui
 
 <h4>Tech Stack</h4>
 
-**AI / LLM**
+**AI / LLM Engineering**
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/500px-LangChain_Logo.svg.png" alt="langchain" width="40" height="40" />
-  </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.hackceleration.com/2026/03/langchain-color-4.png" alt="langchain" width="40" height="40" />
+  </a>
+  <a href="https://langfuse.com/" target="_blank" rel="noreferrer">
+    <img src="https://langfuse.com/favicon.ico" alt="langfuse" width="40" height="40" />
   </a>
 </p>
 
@@ -39,14 +42,14 @@ I work at the intersection of **LLMs, RAG pipelines, and knowledge graphs**, bui
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40" />
   </a>
+  <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.linuxfoundation.org/hs-fs/hubfs/OpenSearch.png?width=700&height=394&name=OpenSearch.png" alt="opensearch" width="40" height="40" />
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
-  <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
-    <img src="https://opensearch.org/assets/brand/PNG/Mark/opensearch_mark_default.png" alt="opensearch" width="40" height="40" />
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
@@ -64,6 +67,15 @@ I work at the intersection of **LLMs, RAG pipelines, and knowledge graphs**, bui
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40" />
+  </a>
+  <a href="https://min.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.bigindustries.be/hubfs/MinIO%20logo-1.png" alt="minio" width="40" height="40" />
+  </a>
+  <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" alt="opentelemetry" width="40" height="40" />
+  </a>
+  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="vault" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
