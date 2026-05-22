@@ -84,12 +84,3 @@ I work at the intersection of **LLMs, RAG pipelines, and knowledge graphs**, bui
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
 </p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynarin&show_icons=true&locale=en&layout=compact" alt="berkaynarin" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynarin&show_icons=true&locale=en" alt="berkaynarin" />
-</p>
