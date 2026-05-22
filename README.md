@@ -1,28 +1,69 @@
-<h3>Hello,</h3> I'm **Berkay**, Software Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a> Contact me at **bnarin.dev@gmail.com** LinkedIn: <a href="https://linkedin.com/in/berkay-narin-92a8a01b9/" target="blank">
+<h3>Hey, I'm Berkay 👋</h3>
+
+R&D Engineer at <a href="https://www.ideateknoloji.com.tr/">Idea Technology Solutions</a> — one of Turkey's first R&D centers.
+
+I work at the intersection of **LLMs, RAG pipelines, and knowledge graphs**, building systems that turn messy real-world data into structured, actionable intelligence. Currently pursuing an **MSc in Computer Engineering** at Gebze Technical University, focusing on Machine Learning & Computer Vision.
+
+- 🔭 Building a **Text-to-SQL Business Intelligence system** with multi-agent architecture (intent recognition, schema linking via RAG, row-level security)
+- 🧬 Developing a **multi-modal diagnostic system** using LLMs + VLMs to identify rare genetic diseases from medical imaging, patient history, and lab results
+- 🕸️ Designing **Knowledge Graph pipelines** (Rel2Graph → Neo4j → Cypher) to improve SQL generation accuracy
+- 🎓 Currently studying computer vision problems for my master's thesis
+
+📬 Reach me at **bnarin.dev@gmail.com**
+
+<a href="https://linkedin.com/in/berkay-narin-92a8a01b9/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkay-narin-92a8a01b9/" height="30" width="40" />
 </a>
-<h4 align="left">Tech Stack:</h4>
+
+---
+
+<h4>Tech Stack</h4>
+
+**AI / LLM**
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
   <a target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/LangChain_Logo.svg/500px-LangChain_Logo.svg.png" alt="langchain" width="40" height="40" />
   </a>
-  <a href="https://learn.microsoft.com/en-us" target="_blank" rel="noreferrer">
-    <img src="https://learn.microsoft.com/en-us/dotnet/media/logo_csharp.png" alt="csharp" width="40" height="40" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
+  </a>
+</p>
+
+**Databases & Vector Stores**
+
+<p align="left">
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  </a>
+  <a href="https://opensearch.org/" target="_blank" rel="noreferrer">
+    <img src="https://opensearch.org/assets/brand/PNG/Mark/opensearch_mark_default.png" alt="opensearch" width="40" height="40" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+  </a>
+</p>
+
+**Infrastructure & Tools**
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" alt="docker" width="40" height="40" />
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40" />
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -30,12 +71,13 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynarin&show_icons=true&locale=en&layout=compact" alt="berkaynarin" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaynarin&show_icons=true&locale=en&layout=compact" alt="berkaynarin" />
-</p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynarin&show_icons=true&locale=en" alt="berkaynarin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaynarin&show_icons=true&locale=en" alt="berkaynarin" />
 </p>
